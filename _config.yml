@@ -1,0 +1,14 @@
+layout_spectrum: 0.5740109670441598
+typography_spectrum: 0.47118931729346514
+color:
+  brandStrength: 0.4638533203396946
+  lightness: 0.3798999872524291
+  saturation: 0.6898353307042271
+  rhythmicContrast: 0.8222533843945712
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: prosilire
