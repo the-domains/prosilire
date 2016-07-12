@@ -12,14 +12,14 @@ description: >-
   finibus ante at consectetur consectetur. Duis cursus felis erat, vitae
   vestibulum nibh gravida a. Sed hendrerit justo nibh, nec euismod metus finibus
   eu.
-dateModified: '2016-07-12T04:17:00.826Z'
-datePublished: '2016-07-12T04:17:07.839Z'
+dateModified: '2016-07-12T04:18:58.670Z'
+datePublished: '2016-07-12T04:18:59.146Z'
 title: Lorem ipsum
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b7d24b4-6b21-4e24-b574-9449141f7d81.jpg
-starred: true
 sourcePath: _posts/2016-07-12-lorem-ipsum.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
