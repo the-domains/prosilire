@@ -1,14 +1,26 @@
-layout_spectrum: 0.5740109670441598
-typography_spectrum: 0.47118931729346514
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3732545
 color:
-  brandStrength: 0.4638533203396946
-  lightness: 0.3798999872524291
-  saturation: 0.6898353307042271
-  rhythmicContrast: 0.8222533843945712
+  saturation: 0.6557465
+  brandStrength: 0.7427498
+  lightness: 0.3216971
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#FFFEFF'
+    - '#0E0C1A'
+    - '#415395'
+    - '#D3A478'
+    - '#2600FF'
+  rhythmicContrast: 0.9758323
+layout_spectrum: 0.5740109670441598
 name: prosilire
