@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
 typography_spectrum: 0.3732545
 color:
   saturation: 0.6557465
@@ -24,3 +12,16 @@ color:
   rhythmicContrast: 0.9758323
 layout_spectrum: 0.5740109670441598
 name: prosilire
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: Grow spiritually and help others to do so. It is the meaning of life.
